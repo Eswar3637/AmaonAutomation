@@ -6,6 +6,13 @@ public class trell {
 	{
 		
 		System.out.println("Trell");
+	        System.out.println("Trell");
+		System.out.println("Trell");
+	        System.out.println("Trell");
+		System.out.println("Trell");
+	        System.out.println("Trell");
+
+		
 		
 	}
 
